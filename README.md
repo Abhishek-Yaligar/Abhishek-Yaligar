@@ -30,12 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to code and c
 
 ---
 
-### 🏆 GitHub Contribution Graph:
-
-![Abhishek-Yaligar's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek-Yaligar&theme=github&hide_border=true&area=true)
-
----
-
 ### ☕ Buy Me a Coffee:
 
 If you enjoy my work and would like to support me, feel free to buy me a coffee! 
