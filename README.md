@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to code and c
 - 🌱 I’m currently learning advanced topics in programming
 - 👯 I’m looking to collaborate on exciting open-source projects
 - 💬 Ask me about anything related to programming and tech!
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:your-abhishekyaligar07@gmail.com)
 
 ---
 
