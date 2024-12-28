@@ -40,7 +40,7 @@ If you enjoy my work and would like to support me, feel free to buy me a coffee!
 
 ### 🔗 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abhishek-y-2295912a4/))
 - [Twitter](https://twitter.com/your-twitter-profile)
 - [Personal Website](https://your-website.com)
 
